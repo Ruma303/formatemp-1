@@ -4,6 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		boolean a = true;
+		System.out.println(!a);
+		
 		System.out.println("Prima classe");
 		
 		System.out.println("Casting: " + 10 + " testo"); 
